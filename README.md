@@ -1,6 +1,6 @@
 # TypeScript Basics
 
-This repository covers the fundamental concepts of TypeScript, designed to give you a solid foundation in strongly-typed JavaScript. Each topic is contained in its own folder with examples to help understand TypeScript’s unique features and how they can enhance JavaScript development.
+This repository covers the fundamental concepts of TypeScript, designed to give you a solid foundation in strongly-typed JavaScript. Typscipt is has many features and support strong typing  Each topic is contained in its own folder with examples to help understand TypeScript’s unique features and how they can enhance JavaScript development.
 
 ## Table of Contents
 
